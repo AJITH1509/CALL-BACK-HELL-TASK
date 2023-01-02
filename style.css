@@ -1,0 +1,24 @@
+.container{
+    border: 2px solid black;
+    margin-top: 50px;
+    background-color:   #fd7e14;
+    border-radius: 10px;
+   
+   
+}
+p{
+    border: 2px solid black;
+    /* height: 100px; */
+    background-color:green;
+    font-size: 50px;
+    margin-top: 100px;
+    color: white;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+
+}
+#buts{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
